@@ -2,8 +2,8 @@ $ = jQuery.noConflict();
 var app = {};
 var new_url;
 app.ajax = null;
-path = "http://items.lifeinsys.com/item/aram/demo-black/";
-base_url = "http://items.lifeinsys.com/item/aram/demo-black";
+path = "https://osmandemirci.design;
+base_url = "https://osmandemirci.design";
 errmsg = '<div class="error-info animated fadeInUp"> <span><span>O</span>ops!</span> <p>Bir Hata ile Karşılaştık Lütfen Sonra Dene</p> </div>'
 
 msg1 = "Lütfen gerekli tüm alanları doldurun";

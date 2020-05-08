@@ -2,7 +2,7 @@ $ = jQuery.noConflict();
 var app = {};
 var new_url;
 app.ajax = null;
-path = "https://osmandemirci.design/"; // oruspu çocu
+path = "https://osmandemirci.design/"; // oruspu çocu template
 base_url = "https://osmandemirci.design/";
 errmsg = '<div class="error-info animated fadeInUp"> <span><span>O</span>ops!</span> <p>Bir Hata ile Karşılaştık Lütfen Sonra Dene</p> </div>'
 

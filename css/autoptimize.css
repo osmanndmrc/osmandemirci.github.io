@@ -7225,7 +7225,10 @@ h1 {
 body {
     background: #252627;
     overflow: hidden;
-    display: block
+    display: block;
+    background-image: url('https://i.hizliresim.com/Cs1YiZ.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #page {

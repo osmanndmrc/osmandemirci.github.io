@@ -104,7 +104,7 @@ app.ui = {
                 line_linked: {
                     enable_auto: true,
                     distance: 200,
-                    color: aqua,
+                    color: '#00ffff',
                     opacity: 1,
                     width: 1,
                     condensed_mode: {
